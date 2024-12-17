@@ -42,7 +42,7 @@
 
 #### 개발 환경 (사용기술) 
 - Front-end : CSS , JS , HTML5, Jquery , Bootstrap, Ajax
-- Back-end : spring , MyBatis, Java 17, JSP, python, selenium 
+- Back-end : springboot , MyBatis, Java 17, JSP, python, selenium 
 - DB / Server : MySQL, Tomcat , Flask
 - API : Toss Payments, CKeditor, 스마트택배 API, Chart.js, ChatGPT, postman
 - TOOl : VisualStudio, Intellij IDEA , GitHub, Git
