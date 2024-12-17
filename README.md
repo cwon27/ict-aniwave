@@ -1,4 +1,4 @@
-ICT 인재개발원 파이널 프로젝트 수행 
+ICT 한국인재개발원 파이널 프로젝트 수행 
 
 ANIWAVE : 클라우드 기반 오픈 API를 활용한 반응형 애니메이션 & 굿즈 판매 사이트 
 
@@ -28,8 +28,6 @@ ANIWAVE : 클라우드 기반 오픈 API를 활용한 반응형 애니메이션 
 2024-10-30
 - 파이널 프로젝트 마무리 
 
-작성일 : 2024-11-01 
-
 담당 기능
 - 메인 UI 및 기능 구현
 - 마이페이지 UI 및 기능구현
@@ -38,6 +36,7 @@ ANIWAVE : 클라우드 기반 오픈 API를 활용한 반응형 애니메이션 
 - 관리자 주문 관리 기능 구현
 - 데이터 수집 및 크롤링
 - 실시간 택배 조회 기능 구현
+- 이미지 서버 구축
 - 전체적인 UI 보완
 - DB 설계 및 통합
 - 기획서&발표 포트폴리오 제작 및 발표
@@ -47,5 +46,5 @@ ANIWAVE : 클라우드 기반 오픈 API를 활용한 반응형 애니메이션 
 - Front-end : CSS , JS , HTML5, Jquery , Bootstrap, Ajax
 - Back-end : spring , MyBatis, Java 17, JSP, python, selenium 
 - DB / Server : MySQL, Tomcat , Flask
-- API : Toss Payments, CKeditor, 스마트택배 API, Chart.js, ChatGPT, postman, kakaomap
+- API : Toss Payments, CKeditor, 스마트택배 API, Chart.js, ChatGPT, postman
 - TOOl : VisualStudio, Intellij IDEA , GitHub, Git
