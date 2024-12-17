@@ -2,6 +2,8 @@
 
 ### ANIWAVE : 클라우드 기반 오픈 API를 활용한 반응형 애니메이션 & 굿즈 판매 사이트 
 
+#### 포트폴리오 링크 : https://drive.google.com/file/d/1_cNb4f_cCm8A800AHrdY1bQ0w9hj_MRH/view?usp=sharing
+
 #### 프로젝트 진행 기간 : 2024-09-19 ~ 2024-10-25
 
 2024-09-19 ~ 2024-09-22 
@@ -46,6 +48,3 @@
 - DB / Server : MySQL, Tomcat , Flask
 - API : Toss Payments, CKeditor, 스마트택배 API, Chart.js, ChatGPT, postman
 - TOOl : VisualStudio Code, Intellij IDEA , GitHub, Git
-
-
-#### 포트폴리오 링크 : https://drive.google.com/file/d/1_cNb4f_cCm8A800AHrdY1bQ0w9hj_MRH/view?usp=sharing
