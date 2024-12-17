@@ -45,7 +45,7 @@
 - Back-end : springboot , MyBatis, Java 17, JSP, python, selenium 
 - DB / Server : MySQL, Tomcat , Flask
 - API : Toss Payments, CKeditor, 스마트택배 API, Chart.js, ChatGPT, postman
-- TOOl : VisualStudio, Intellij IDEA , GitHub, Git
+- TOOl : VisualStudio Code, Intellij IDEA , GitHub, Git
 
 
 #### 포트폴리오 링크 : https://drive.google.com/file/d/1_cNb4f_cCm8A800AHrdY1bQ0w9hj_MRH/view?usp=sharing
