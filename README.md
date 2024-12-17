@@ -41,7 +41,6 @@
 - DB 설계 및 통합
 - 기획서&발표 포트폴리오 제작 및 발표
 
-
 #### 개발 환경 (사용기술) 
 - Front-end : CSS , JS , HTML5, Jquery , Bootstrap, Ajax
 - Back-end : springboot , MyBatis, Java 17, JSP, python, selenium 
